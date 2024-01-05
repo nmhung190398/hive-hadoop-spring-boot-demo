@@ -11,5 +11,5 @@ public class Organization {
     private String description;
     private String founded;
     private String industry;
-    private Integer number_of_employees;
+    private Integer numberOfEmployees;
 }
