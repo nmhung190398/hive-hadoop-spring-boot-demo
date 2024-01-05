@@ -38,7 +38,7 @@ CREATE TABLE organizations (
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ','
 STORED AS TEXTFILE
-LOCATION '/user/hadoop/your_data.csv';
+LOCATION '/user/hadoop/organizations-100.csv';
 
 ```
 
